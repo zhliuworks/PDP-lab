@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="814" height="627" style="user-select: none; position: absolute; left: 0px; top: 0px;">
+<g>
+<rect width="814" height="627" x="0" y="0" id="0" fill="none" fill-opacity="1">
+</rect>
+</g>
+<g>
+<path d="M 81.4 557.5 L 732.6 557.5" fill="none" stroke="#E0E6F1" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 81.4 474.5 L 732.6 474.5" fill="none" stroke="#E0E6F1" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 81.4 391.5 L 732.6 391.5" fill="none" stroke="#E0E6F1" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 81.4 308.5 L 732.6 308.5" fill="none" stroke="#E0E6F1" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 81.4 225.5 L 732.6 225.5" fill="none" stroke="#E0E6F1" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 81.4 143.5 L 732.6 143.5" fill="none" stroke="#E0E6F1" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 81.4 60.5 L 732.6 60.5" fill="none" stroke="#E0E6F1" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,81.4,45)" dominant-baseline="central" text-anchor="middle" x="0" y="-6" style="font: 12px sans-serif;">Elapsed time (ms)</text>
+<path d="M 81.4 557.5 L 732.6 557.5" fill="none" stroke="#6E7079" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="round" stroke-miterlimit="10">
+</path>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,747.6,557)" dominant-baseline="central" text-anchor="start" x="0" y="-12" style="font: 12px sans-serif;">Matrix size </text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,747.6,557)" dominant-baseline="central" text-anchor="start" x="0" y="12" style="font: 12px sans-serif;">    (#int)</text>
+<path d="M 81.5 557 L 81.5 562" fill="none" stroke="#6E7079" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 190.5 557 L 190.5 562" fill="none" stroke="#6E7079" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 298.5 557 L 298.5 562" fill="none" stroke="#6E7079" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 407.5 557 L 407.5 562" fill="none" stroke="#6E7079" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 515.5 557 L 515.5 562" fill="none" stroke="#6E7079" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 624.5 557 L 624.5 562" fill="none" stroke="#6E7079" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 732.5 557 L 732.5 562" fill="none" stroke="#6E7079" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,73.4,557)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px sans-serif;">0</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,73.4,474.1667)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px sans-serif;">0.02</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,73.4,391.3333)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px sans-serif;">0.04</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,73.4,308.5)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px sans-serif;">0.06</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,73.4,225.6667)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px sans-serif;">0.08</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,73.4,142.8333)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px sans-serif;">0.1</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,73.4,60)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px sans-serif;">0.12</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,135.6667,565)" dominant-baseline="central" text-anchor="middle" x="0" y="6" style="font: 12px sans-serif;">1024</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,244.2,565)" dominant-baseline="central" text-anchor="middle" x="0" y="6" style="font: 12px sans-serif;">4096</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,352.7333,565)" dominant-baseline="central" text-anchor="middle" x="0" y="6" style="font: 12px sans-serif;">16384</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,461.2667,565)" dominant-baseline="central" text-anchor="middle" x="0" y="6" style="font: 12px sans-serif;">65536</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,569.8,565)" dominant-baseline="central" text-anchor="middle" x="0" y="6" style="font: 12px sans-serif;">262144</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,678.3333,565)" dominant-baseline="central" text-anchor="middle" x="0" y="6" style="font: 12px sans-serif;">1048576</text>
+<defs>
+<clipPath id="zr6996-clip-18">
+<path d="M 80 59 L 733 59 L 733 558 L 80 558 L 80 59 Z" fill="#000" fill-opacity="1" stroke="none">
+</path>
+</clipPath>
+<clipPath id="zr6996-clip-20">
+<path d="M 80 59 L 733 59 L 733 558 L 80 558 L 80 59 Z" fill="#000" fill-opacity="1" stroke="none">
+</path>
+</clipPath>
+<clipPath id="zr6996-clip-22">
+<path d="M 80 59 L 733 59 L 733 558 L 80 558 L 80 59 Z" fill="#000" fill-opacity="1" stroke="none">
+</path>
+</clipPath>
+<clipPath id="zr6996-clip-24">
+<path d="M 80 59 L 733 59 L 733 558 L 80 558 L 80 59 Z" fill="#000" fill-opacity="1" stroke="none">
+</path>
+</clipPath>
+<clipPath id="zr6996-clip-37">
+<path d="M 80 59 L 733 59 L 733 558 L 80 558 L 80 59 Z" fill="#000" fill-opacity="1" stroke="none">
+</path>
+</clipPath>
+</defs>
+<g clip-path="url(#zr6996-clip-18)">
+<path d="M 135.6667 419.4138 L 244.2 419.0825 L 352.7333 417.4258 L 461.2667 412.4558 L 569.8 330.0367 L 678.3333 180.0255" fill="none" stroke="#91cc75" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="10">
+</path>
+</g>
+<g clip-path="url(#zr6996-clip-20)">
+<path d="M 135.6667 419.4967 L 244.2 418.7512 L 352.7333 417.2602 L 461.2667 412.0417 L 569.8 326.2263 L 678.3333 179.6942" fill="none" stroke="#fac858" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="10">
+</path>
+</g>
+<g clip-path="url(#zr6996-clip-22)">
+<path d="M 135.6667 419.4138 L 244.2 419.331 L 352.7333 416.4318 L 461.2667 410.7163 L 569.8 321.422 L 678.3333 126.7637" fill="none" stroke="#ee6666" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="10">
+</path>
+</g>
+<g clip-path="url(#zr6996-clip-24)">
+<path d="M 135.6667 419.331 L 244.2 418.2542 L 352.7333 416.5147 L 461.2667 410.882 L 569.8 319.5997 L 678.3333 141.508" fill="none" stroke="#73c0de" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="10">
+</path>
+</g>
+<g clip-path="url(#zr6996-clip-37)">
+<path d="M 135.6667 420.4078 L 244.2 419.7452 L 352.7333 417.7572 L 461.2667 414.7752 L 569.8 329.7053 L 678.3333 182.1792" fill="none" stroke="#5470c6" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="10">
+</path>
+</g>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#91cc75" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,135.6667,419.4138)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#91cc75" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,244.2,419.0825)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#91cc75" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,352.7333,417.4258)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#91cc75" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,461.2667,412.4558)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#91cc75" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,569.8,330.0367)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#91cc75" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,678.3333,180.0255)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#fac858" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,135.6667,419.4967)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#fac858" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,244.2,418.7512)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#fac858" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,352.7333,417.2602)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#fac858" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,461.2667,412.0417)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#fac858" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,569.8,326.2263)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#fac858" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,678.3333,179.6942)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#ee6666" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,135.6667,419.4138)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#ee6666" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,244.2,419.331)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#ee6666" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,352.7333,416.4318)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#ee6666" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,461.2667,410.7163)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#ee6666" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,569.8,321.422)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#ee6666" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,678.3333,126.7637)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#73c0de" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,135.6667,419.331)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#73c0de" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,244.2,418.2542)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#73c0de" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,352.7333,416.5147)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#73c0de" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,461.2667,410.882)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#73c0de" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,569.8,319.5997)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#73c0de" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,678.3333,141.508)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#5470c6" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,135.6667,420.4078)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#5470c6" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,244.2,419.7452)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#5470c6" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,352.7333,417.7572)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#5470c6" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,461.2667,414.7752)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#5470c6" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,569.8,329.7053)">
+</path>
+<path d="M 1 0 A 1 1 0 1 1 1 -0.0001" fill="#fff" fill-opacity="1" stroke="#5470c6" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(2,0,0,2,678.3333,182.1792)">
+</path>
+<path d="M -5 -5 L 184.0605 -5 L 184.0605 111 L -5 111 L -5 -5 Z" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,629.9395,5)">
+</path>
+<path d="M 0 7 L 25 7" fill="#000" fill-opacity="1" stroke="#5470c6" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,4.6)">
+</path>
+<path d="M 18.1 7 A 5.6 5.6 0 1 1 18.1 6.9994" fill="#fff" fill-opacity="1" stroke="#5470c6" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,4.6)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,783,4.6)" dominant-baseline="central" text-anchor="end" x="-5" y="7" style="font: 12px sans-serif;">(reduction-opt-4) GPU-base</text>
+<path d="M 0 7 L 25 7" fill="#000" fill-opacity="1" stroke="#91cc75" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,27.8)">
+</path>
+<path d="M 18.1 7 A 5.6 5.6 0 1 1 18.1 6.9994" fill="#fff" fill-opacity="1" stroke="#91cc75" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,27.8)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,783,27.8)" dominant-baseline="central" text-anchor="end" x="-5" y="7" style="font: 12px sans-serif;">GPU-opt1</text>
+<path d="M 0 7 L 25 7" fill="#000" fill-opacity="1" stroke="#fac858" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,51)">
+</path>
+<path d="M 18.1 7 A 5.6 5.6 0 1 1 18.1 6.9994" fill="#fff" fill-opacity="1" stroke="#fac858" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,51)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,783,51)" dominant-baseline="central" text-anchor="end" x="-5" y="7" style="font: 12px sans-serif;">GPU-opt2</text>
+<path d="M 0 7 L 25 7" fill="#000" fill-opacity="1" stroke="#ee6666" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,74.2)">
+</path>
+<path d="M 18.1 7 A 5.6 5.6 0 1 1 18.1 6.9994" fill="#fff" fill-opacity="1" stroke="#ee6666" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,74.2)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,783,74.2)" dominant-baseline="central" text-anchor="end" x="-5" y="7" style="font: 12px sans-serif;">GPU-opt3</text>
+<path d="M 0 7 L 25 7" fill="#000" fill-opacity="1" stroke="#73c0de" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,97.4)">
+</path>
+<path d="M 18.1 7 A 5.6 5.6 0 1 1 18.1 6.9994" fill="#fff" fill-opacity="1" stroke="#73c0de" stroke-width="2" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" transform="matrix(1,0,0,1,783,97.4)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,783,97.4)" dominant-baseline="central" text-anchor="end" x="-5" y="7" style="font: 12px sans-serif;">GPU-opt4</text>
+<path d="M -126.0298 -5 L 126.0298 -5 L 126.0298 45 L -126.0298 45 L -126.0298 -5 Z" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,407,5)">
+</path>
+<text xml:space="preserve" fill="#464646" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,407,5)" dominant-baseline="central" text-anchor="middle" x="0" y="9" style="font: bold 18px sans-serif;">Optimize squared difference</text>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,407,5)" dominant-baseline="central" text-anchor="middle" x="0" y="34" style="font: 12px sans-serif;">RBF kernel computation</text>
+</g>
+</svg>
